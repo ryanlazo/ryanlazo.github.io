@@ -7,4 +7,4 @@ ryan lazo online development resume
 * third bullet item
 
 1. first numbered item
-1. second item
+1. third item
