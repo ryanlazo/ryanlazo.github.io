@@ -1,10 +1,19 @@
-# my resume
-ryan lazo online development resume
+# Ryan Lazo's GitHub Portfolio
 
-* first bullet item
-* second bullet item
+###_Under Construction_
 
-* third bullet item
+#### About Me
 
-1. first numbered item
-1. third item
+    I have 
+
+### Projects
+
+* [Android App project]()
+
+    This is an app that 
+
+
+
+
+
+
