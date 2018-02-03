@@ -8,13 +8,13 @@ I worked for several years in the medical field as a Chiropractor until a serend
 
 I love meeting new people and learning new things. I love being in a room with people who are passionate, creative, and hard-working as it helps bring out the best in myself. I love to network, meet new people, and take on new challenges- so feel free to say hello or send me a message with any of your creative ideas! 
 
-###My Learning Styles:
+### My Learning Styles:
 
   - 10% Auditory
   - 40% Visual 
   - 50% Tactile
   
-####Quantitative Accomplishments
+### Quantitative Accomplishments
   1. I am very hard-working and try to become an efficient member of a team as quickly as possible.
   2. I am a motivational person and a good group leader than helps inspire others in order to bring out the best in them.
   3. I am very adaptable and I am able to get along with people very easily.
