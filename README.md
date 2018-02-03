@@ -1,6 +1,6 @@
-# Ryan Lazo's GitHub Portfolio
+# Ryan Lazo's Professional Development
 
-### _Under Construction_
+######My career buddy; Jacques Chevrier
 
 #### About Me
 
@@ -8,15 +8,41 @@ I worked for several years in the medical field as a Chiropractor until a serend
 
 I love meeting new people and learning new things. I love being in a room with people who are passionate, creative, and hard-working as it helps bring out the best in myself. I love to network, meet new people, and take on new challenges- so feel free to say hello or send me a message with any of your creative ideas! 
 
-When I'm not working you can find me with my wife and our friends taking in all that New Mexico has to offer. I love to travel and immerse myself in another cities cultures. I am truly a kid at heart, I love to cook, draw, play video games, watch movies, and exercise. 
+###My Learning Styles:
 
-### Projects
+  - 10% Auditory
+  - 40% Visual 
+  - 50% Tactile
+  
+####Quantitative Accomplishments
+  1. I am very hard-working and try to become an efficient member of a team as quickly as possible.
+  2. I am a motivational person and a good group leader than helps inspire others in order to bring out the best in them.
+  3. I am very adaptable and I am able to get along with people very easily.
+
+  
+### Qualitative Accomplishments
+  1. I was voted top 5 best Chiropractors in the state of New Mexico in just one year. 
+  2. I was able to get semi-professional and professional athletes back on the field in half the amount of time as their primary care physicians.
+  3. I averaged around 100 patient visits per week after just 8 months working as a licensed Chiropractor. 
+     
+#### Golden Circle:
+      the Why: I want to help change the way our 
+      health care system operates.
+      the How: By learning computer programming and 
+      combining it with my experience in the medical field.
+      the What: Find a company that works with medical tech. 
+      
+#### Elevator Pitch
+    Hi my name is Ryan. I build Android devices that help maximize efficiency in the health care field. I'm 
+    working with Deep Dive Coding to advance my knowledge of the Java/Android platforms in order to better help 
+    the medical industry. Are you having interested in encorporating tech into your practice as a way to 
+    maximize productivity?
+     
+      
 
 * [Android App project]()
 
-    This is an app that 
-
-[Go to page 2](page2.md)
+  
 
 
 
