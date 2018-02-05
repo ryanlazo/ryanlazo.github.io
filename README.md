@@ -14,7 +14,7 @@ I love meeting new people and learning new things. I love being in a room with p
   - 40% Visual 
   - 50% Tactile
   
-####Quantitative Accomplishments
+###Quantitative Accomplishments
   1. I am very hard-working and try to become an efficient member of a team as quickly as possible.
   2. I am a motivational person and a good group leader than helps inspire others in order to bring out the best in them.
   3. I am very adaptable and I am able to get along with people very easily.
@@ -43,7 +43,7 @@ I love meeting new people and learning new things. I love being in a room with p
 * [Android App project]()
 
   
-
+*[My resume](R.Lazo Resume.docx)
 
 
 
