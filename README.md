@@ -1,6 +1,6 @@
 # Ryan Lazo's Professional Development
 
-######My career buddy; Jacques Chevrier
+######My career buddy: Jacques Chevrier
 
 #### About Me
 
