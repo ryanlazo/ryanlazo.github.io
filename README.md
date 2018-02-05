@@ -35,7 +35,7 @@ I love meeting new people and learning new things. I love being in a room with p
 #### Elevator Pitch
     Hi my name is Ryan. I build Android devices that help maximize efficiency in the health care field. I'm 
     working with Deep Dive Coding to advance my knowledge of the Java/Android platforms in order to better help 
-    the medical industry. Are you having interested in encorporating tech into your practice as a way to 
+    the medical industry. Are you interested in encorporating tech into your practice as a way to 
     maximize productivity?
      
       
