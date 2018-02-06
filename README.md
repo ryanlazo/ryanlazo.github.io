@@ -32,18 +32,28 @@ I love meeting new people and learning new things. I love being in a room with p
       combining it with my experience in the medical field.
       the What: Find a company that works with medical tech. 
       
-#### Elevator Pitch
+#### Elevator Pitch (Medical)
     Hi my name is Ryan. I build Android devices that help maximize efficiency in the health care field. I'm 
     working with Deep Dive Coding to advance my knowledge of the Java/Android platforms in order to better help 
     the medical industry. Are you interested in encorporating tech into your practice as a way to 
     maximize productivity?
+    
+#### Elevator Pitch (General)
+    Hi my name is Ryan. I am a Java/Android developer looking to break into the tech industry as a Junior
+    Developer. I am currently perfecting my Java/Android skills at Ingenuity Labs Deep Dive Coding Bootcamp. 
+    Are you looking for a passionate, hard-working Developer to join your team? 
      
       
 
-* [Android App project]()
+
+
+* [Linkedin Profile](https://www.linkedin.com/in/ryan-lazo-924024158/)
+
+
+* [GitHub Profile](https://github.com/ryanlazo)
 
   
-*[My resume](R.Lazo Resume.docx)
+* [My resume](R.Lazo Resume.docx)
 
 
 
