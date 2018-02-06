@@ -44,7 +44,11 @@ I love meeting new people and learning new things. I love being in a room with p
     Are you looking for a passionate, hard-working Developer to join your team? 
      
       
-
+#### Google search reflection:
+I googled myself and found a number of things related to my old profession. There is not much I can do to 
+limit the exposure of a profession I am no longer a part of but hopefully as my Software Developer career 
+grows it will obscure these other results. I also found some old newspaper clippings of my athletic career 
+including my short-lived collegiate career. Other than that it was just a few social media profiles. 
 
 
 * [Linkedin Profile](https://www.linkedin.com/in/ryan-lazo-924024158/)
