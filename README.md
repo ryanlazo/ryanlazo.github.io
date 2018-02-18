@@ -50,6 +50,25 @@ limit the exposure of a profession I am no longer a part of but hopefully as my 
 grows it will obscure these other results. I also found some old newspaper clippings of my athletic career 
 including my short-lived collegiate career. Other than that it was just a few social media profiles. 
 
+#### Direct initiatives
+
+* Business cards
+
+* Build a reputation as a hard-working, talented developer that is easy to work
+with. 
+
+* Establish a relationship with other professionals in the industry or the specialty you
+plan to focus on. 
+
+####Indirect initiatives
+
+* Community service and networking events
+
+* Guest speaking events
+
+* Develop a referral system by doing good work on a consistent basis. 
+
+
 
 * [Linkedin Profile](https://www.linkedin.com/in/ryan-lazo-924024158/)
 
@@ -57,7 +76,7 @@ including my short-lived collegiate career. Other than that it was just a few so
 * [GitHub Profile](https://github.com/ryanlazo)
 
   
-* [My resume](R.Lazo Resume.docx)
+* [My resume](TechResume copy.pdf)
 
 
 
